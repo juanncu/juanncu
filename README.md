@@ -1,6 +1,6 @@
 # 💫 About Me:
-Soy un desarrollador web e ingeniero informático apasionado por el mundo del desarrollo y la tecnología.<br>Mi trayecto en el mundo del desarrollo comenzó en 2019, cuando inicié mi carrera en Ingeniería Informática. Desde entonces hasta hoy, persigo diariamente una versión mejorada de mí mismo, tanto a nivel personal como profesional.<br>Aunque adquirí muchos conocimientos en la universidad donde cursé mi carrera, la mayor parte de mis habilidades en desarrollo las he desarrollado de manera autodidacta. Este enfoque ha fortalecido mi capacidad para avanzar en mi conocimiento de manera más efectiva.<br><br><br><br><br><br><br><br>
-
+Soy un desarrollador web e ingeniero informático apasionado por el mundo del desarrollo y la tecnología.
+<br>Mi trayecto en el mundo del desarrollo comenzó en 2019, cuando inicié mi carrera en Ingeniería Informática. Desde entonces hasta hoy, persigo diariamente una versión mejorada de mí mismo, tanto a nivel personal como profesional.<br>Aunque adquirí muchos conocimientos en la universidad donde cursé mi carrera, la mayor parte de mis habilidades en desarrollo las he desarrollado de manera autodidacta. Este enfoque ha fortalecido mi capacidad para avanzar en mi conocimiento de manera más efectiva.<br><br><br><br><br><br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jJuanqxk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqxk) 
 
