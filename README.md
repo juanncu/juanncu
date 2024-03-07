@@ -1,5 +1,7 @@
 # 💫 About Me:
-Soy un desarrollador web e ingeniero informático apasionado por el mundo del desarrollo y la tecnología.<br><br>Mi trayecto en el mundo del desarrollo comenzó en 2019 cuando inicié mi carrera en Ingeniería Informática. Desde entonces hasta hoy, persigo diariamente una versión mejorada de mí mismo, tanto a nivel personal como profesional.<br><br>He colaborado en proyectos de manera freelance que me han permitido mejorar mis conocimientos acerca del mundo de la programación. Uno de mis objetivos actuales es seguir avanzando profesionalmente y poder ocupar un puesto como desarrollador Backend Jr, donde pueda aportar mis conocimientos para contribuir a la construcción de software de alta calidad.<br>
+Mi nombre es Juan, tengo 23 años, soy un apasionado por el desarrollo de software y estoy a punto de graduarme de la universidad.<br>
+En el 2019 comencé la carrera de ingeniería informática, y desde entonces empezó mi interés por el mundo de la programación. Durante todo este tiempo he participado en diversos proyectos tanto personales como de manera freelance, los cuales me han permitido ampliar mis habilidades como desarrollador.<br>
+Mi objetivo es seguir avanzando profesionalmente, al mismo tiempo que contribuyo en la creación de software de alta calidad que ayude a alcanzar el éxito en cada uno de los proyectos en los que participe.<br>
 
 
 ## 🌐 Socials:
