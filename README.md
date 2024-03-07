@@ -1,6 +1,6 @@
 # 💫 About Me:
-Mi nombre es Juan, tengo 23 años, soy un apasionado por el desarrollo de software y estoy a punto de graduarme de la universidad.<br>
-En el 2019 comencé la carrera de ingeniería informática, y desde entonces empezó mi interés por el mundo de la programación. Durante todo este tiempo he participado en diversos proyectos tanto personales como de manera freelance, los cuales me han permitido ampliar mis habilidades como desarrollador.<br>
+Mi nombre es Juan, tengo 23 años, soy un apasionado por el desarrollo de software y estoy a punto de graduarme de la universidad.<br><br>
+En el 2019 comencé la carrera de ingeniería informática, y desde entonces empezó mi interés por el mundo de la programación. Durante todo este tiempo he participado en diversos proyectos tanto personales como de manera freelance, los cuales me han permitido ampliar mis habilidades como desarrollador.<br><br>
 Mi objetivo es seguir avanzando profesionalmente, al mismo tiempo que contribuyo en la creación de software de alta calidad que ayude a alcanzar el éxito en cada uno de los proyectos en los que participe.<br>
 
 
