@@ -1,8 +1,7 @@
 # 💫 About Me:
-Mi nombre es Juan, tengo 23 años, soy un apasionado por el desarrollo de software y estoy a punto de graduarme de la universidad.<br><br>
-En el 2019 comencé la carrera de ingeniería informática, y desde entonces empezó mi interés por el mundo de la programación. Durante todo este tiempo he participado en diversos proyectos tanto personales como de manera freelance, los cuales me han permitido ampliar mis habilidades como desarrollador.<br><br>
-Mi objetivo es seguir avanzando profesionalmente, al mismo tiempo que contribuyo en la creación de software de alta calidad que ayude a alcanzar el éxito en cada uno de los proyectos en los que participe.<br>
-
+Soy mexicano, tengo 23 años y estudié la carrera de ingeniería informática, de la cual me gradué el 21 de marzo de 2024.<br/><br/>
+En la carrera descubrí mi pasión por la programación y por la tecnología, además de que tuve la oportunidad de participar en proyectos de desarrollo web, los cuales hicieron que mis habilidades como programador aumentaran, así como también mis ganas de seguir creciendo profesionalmente.<br/><br/>
+Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanqxk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqxk) 
