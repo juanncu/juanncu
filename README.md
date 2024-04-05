@@ -1,8 +1,8 @@
 ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
 
 # 💫 About Me:
-Soy mexicano, tengo 23 años y estudié la carrera de ingeniería informática, de la cual me gradué el 21 de marzo de 2024.<br/><br/>
-En la carrera descubrí mi pasión por la programación y por la tecnología, además de que tuve la oportunidad de participar en proyectos de desarrollo web, los cuales hicieron que mis habilidades como programador aumentaran, así como también mis ganas de seguir creciendo profesionalmente.<br/><br/>
+Mi nombre es Juan, soy mexicano, tengo 23 años y estudié la carrera de ingeniería informática en donde descubrí mi pasión por la programación y la tecnología.
+He tenido la oportunidad de participar en diversos proyectos de desarrollo web, los cuales han hecho que mi interés y mis conocimientos como programador aumentaran, así como también mis ganas de seguir creciendo profesionalmente.
 Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
 ## 🌐 Socials:
