@@ -1,9 +1,13 @@
 ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
 
 # 💫 About Me:
-Mi nombre es Juan, soy mexicano, tengo 23 años y estudié la carrera de ingeniería informática en donde descubrí mi pasión por la programación y la tecnología.<br/>
-He tenido la oportunidad de participar en diversos proyectos de desarrollo web, los cuales han hecho que mi interés y mis conocimientos como programador aumentaran, así como también mis ganas de seguir creciendo profesionalmente.<br/>
-Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
+👋 Mi nombre es Juan, tengo 23 años y estudié la carrera de ingeniería informática, donde descubrí la programación y el mundo del desarrollo de software. 
+<br/> <br/>
+👨🏻‍💻 Aprendo con cada línea de código que escribo y encuentro motivación en los desafíos que la programación me presenta.
+<br/> <br/> 
+Actualmente, estoy en busca de nuevas oportunidades que me permitan seguir creciendo profesionalmente así como también contribuir en la creación de software de alta calidad. ✅️
+<br/> <br/>
+⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanqxk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqxk) 
