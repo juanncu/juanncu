@@ -3,8 +3,6 @@
 # 💫 About Me:
 👋 Mi nombre es Juan, tengo 23 años y estudié la carrera de ingeniería informática, donde descubrí la programación y el mundo del desarrollo de software. 
 <br/> <br/>
-👨🏻‍💻 Aprendo con cada línea de código que escribo y encuentro motivación en los desafíos que la programación me presenta.
-<br/> <br/> 
 Actualmente, estoy en busca de nuevas oportunidades que me permitan seguir creciendo profesionalmente así como también contribuir en la creación de software de alta calidad. ✅️
 <br/> <br/>
 ⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
