@@ -1,7 +1,7 @@
 ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
 
 # 💫 About Me:
-👋 Mi nombre es Juan, tengo 23 años y estudié la carrera de ingeniería informática, donde descubrí la programación y el mundo del desarrollo de software. 
+👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo Backend.
 <br/> <br/>
 Actualmente, estoy en busca de nuevas oportunidades que me permitan seguir creciendo profesionalmente así como también contribuir en la creación de software de alta calidad. ✅️
 <br/> <br/>
