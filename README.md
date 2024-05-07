@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo Backend.
 <br/> <br/>
-Como entusiasta de la programación, estoy comprometido con el aprendizaje continuo y estoy dispuesto a aceptar nuevos retos que me permitan consolidar cada vez más mi carrera dentro de la industria, así como también que me permitan contribuir al crecimiento de proyectos y equipos. ✅️
+Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que me permitan consolidar cada vez más mi carrera dentro de la industria al mismo tiempo que contribuyo al crecimiento de proyectos y equipos. ✅️
 <br/> <br/>
 ⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
