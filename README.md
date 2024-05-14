@@ -1,7 +1,7 @@
 ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
 
 # 💫 About Me:
-👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo Backend.
+👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo móvil.
 <br/> <br/>
 Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que me permitan consolidar cada vez más mi carrera dentro de la industria al mismo tiempo que contribuyo al crecimiento de proyectos y equipos. ✅️
 <br/> <br/>
