@@ -1,4 +1,4 @@
-# ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
+<!-- ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228) -->
 
 # 💫 About Me:
 👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo móvil.
