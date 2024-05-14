@@ -1,4 +1,4 @@
-![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
+# ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228)
 
 # 💫 About Me:
 👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo móvil.
@@ -15,9 +15,9 @@ Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Juanqxk&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juanqxk&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanqxk&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Juanqx&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juanqx&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanqx&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
