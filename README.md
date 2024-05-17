@@ -1,7 +1,7 @@
 <!-- ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228) -->
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
-# 💫 Sobre Mí:
+<!-- # 💫 Sobre Mí: -->
 👋 Mi nombre es Juan, soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles.
 <br/> <br/>
 Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que me permitan consolidar cada vez más mi carrera dentro de la industria al mismo tiempo que contribuyo al crecimiento de proyectos y equipos. ✅️
