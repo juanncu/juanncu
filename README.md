@@ -7,7 +7,7 @@
 Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que me permitan consolidar cada vez más mi carrera dentro de la industria al mismo tiempo que contribuyo al crecimiento de proyectos y equipos. ✅️
 <br/> <br/>
 ⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
-
+##
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx) 
 
