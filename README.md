@@ -10,7 +10,7 @@ Como entusiasta de la programación, estoy dispuesto a aceptar nuevos retos que 
 ⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
 ## 🌐 Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badgelogo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx) 
 ![Instagram](https://img.shields.io/badge/Instagram-%230175C2.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/juanqx_)
 
 ## 💻 Tecnologías:
