@@ -5,9 +5,9 @@
 <!-- # 💫 Sobre Mí: -->
 👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 <br/> <br/>
-Durante el tiempo que estuve en la universidad tuve la oportunidad de explorar diferentes áreas de la informática y el desarrollo, pasando desde el desarrollo de aplicaciones móviles, la ciberseguridad, redes, hasta el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto la mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. ✅️
-<br/> <br/>
-⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
+Durante el tiempo que estuve en la universidad me dediqué a explorar diferentes áreas de la informática y el desarrollo con la finalidad de encontrar mi área de especialización. Pasé por el desarrollo de aplicaciones móviles, la ciberseguridad, redes y el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto la mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. ✅️
+<br><br>
+⚡️Estoy realmente comprometido con el avance y la mejora continua, tanto en el aspecto laboral como en lo personal.
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
