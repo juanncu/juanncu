@@ -5,7 +5,7 @@
 <!-- # 💫 Sobre Mí: -->
 👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 <br/> <br/>
-Durante el tiempo que estuve en la universidad tuve la oportunidad de explorar diferentes áreas de la informática y el desarrollo, pasando desde el desarrollo de aplicaciones móviles, la ciberseguridad, redes, hasta el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto la mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día✅️
+Durante el tiempo que estuve en la universidad tuve la oportunidad de explorar diferentes áreas de la informática y el desarrollo, pasando desde el desarrollo de aplicaciones móviles, la ciberseguridad, redes, hasta el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto la mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. ✅️
 <br/> <br/>
 ⚡️Me considero una persona dedicada, comprometida y que siempre busca hacer su trabajo lo mejor posible.
 
