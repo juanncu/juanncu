@@ -3,7 +3,7 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles.
+👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 <br/> <br/>
 Durante el tiempo que estuve en la universidad me dediqué a explorar diferentes áreas de la informática y el desarrollo con la finalidad de encontrar mi área de especialización. Pasé por el desarrollo de aplicaciones móviles, la ciberseguridad, redes y el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. 🎯
 <br><br>
