@@ -3,17 +3,15 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
+👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles.
 <br/><br/>
-Durante el tiempo que estuve en la universidad, me dediqué a explorar diferentes áreas de la informática y la programación con la finalidad de encontrar mi área de especialización. Pasé por el desarrollo de aplicaciones móviles, la ciberseguridad, redes y el desarrollo de aplicaciones web. Este último campo es el que más disfruto y en el que invierto mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. 🎯
+Durante el tiempo que estuve en la universidad, me dediqué a explorar diferentes áreas de la informática y la programación con la finalidad de encontrar mi área de especialización. Pasé por el desarrollo de aplicaciones web, la ciberseguridad, redes y el desarrollo de aplicaciones móviles. Este último campo es el que más disfruto y en el que invierto mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. 🎯
 <br/><br/>
 ⚡️ Estoy realmente comprometido con el avance y la mejora continua, tanto en el aspecto laboral como en lo personal.
 <br/><br/>
-✅ Dentro de la programación web, el área en la que más estoy centrado a día de hoy es el desarrollo backend. Aquí he podido desarrollar aplicaciones usando principalmente tecnologías como Node.js, TypeScript, NestJs, PostgreSQL y MySQL. También he probado tecnologías como PHP con Laravel y Java con Spring, y aunque estas últimas no son mi fuerte, me han ayudado a ampliar mis conocimientos y mi visión dentro del desarrollo web.
-<br/><br/>
-✅ En cuanto al frontend, es un área que me gusta, pero en la que no estoy muy al día en cuanto al uso de las últimas herramientas. Sin embargo, he desarrollado varios proyectos personales usando tecnologías como Astro, Tailwindcss, HTML, CSS y JavaScript. También he probado un poco de Angular, pero a un nivel muy básico, aunque es algo que con el tiempo pienso mejorar poco a poco.
-<br/><br/>
-✅ Algunas de las herramientas que uso en mi día a día como desarrollador son: la terminal, Git, GitHub, Docker, Visual Studio Code, Postman y Linux.
+✅ El desarrollo de aplicaciones móviles es una área que desde que empece la universidad me llamó mucho la atención, y aunque mis primeros pasos dentro de la programación fueron creando aplicaciones web, tanto como Frontend y como Backend, el desarrollo móvil seguía siendo mi área preferida.
+ <br/><br/>
+📱 Actualmente me especializo en el desarrollo de aplicaciones para el sistema operativo de android, en donde utilizo tecnologías como Kotlin, Jetpack Compose, XML y Firebase. También he probado un poco sobre el desarrollo multiplataforma con Kotlin Multiplatform y Dart con Flutter.
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
