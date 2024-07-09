@@ -5,7 +5,7 @@
 <!-- # 💫 Sobre Mí: -->
 👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software.
 <br/><br/>
-✅ Durante el tiempo que estaba cursando la universidad, el desarrollo de aplicaciones móviles fue un área que captó mucho mi atención, y aunque mis primeros pasos dentro de la programación fueron del lado del desarrollo web, en donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend, el desarrollo móvil seguía siendo mi área preferida.
+✅ Durante el tiempo que estaba cursando la universidad, el desarrollo de aplicaciones móviles fue un área que captó mucho mi atención desde el principio, y aunque mis primeros pasos dentro de la programación fueron del lado del desarrollo web, en donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend, el desarrollo móvil seguía siendo mi área preferida.
  <br/><br/>
 📱 Actualmente me especializo en el desarrollo de aplicaciones para el sistema operativo android, en donde utilizo tecnologías como Kotlin, Jetpack Compose, XML, Firebase y SQLite. También he probado un poco sobre el desarrollo multiplataforma con Kotlin Multiplatform y Dart con Flutter.
 <br/><br/>
