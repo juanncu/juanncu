@@ -7,7 +7,7 @@
 <br/><br/>
 ✅ Durante el tiempo que estaba cursando la universidad, el desarrollo de aplicaciones móviles fue un área que captó mucho mi atención desde el principio, y aunque mis primeros pasos dentro de la programación fueron del lado del desarrollo web, en donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend, el desarrollo móvil seguía siendo mi área preferida.
  <br/><br/>
-📱 Actualmente me especializo en el desarrollo de aplicaciones para el sistema operativo android, en donde utilizo tecnologías como Kotlin, Jetpack Compose, XML, Firebase y SQLite. También he probado un poco sobre el desarrollo multiplataforma con Kotlin Multiplatform y Dart con Flutter.
+📱 Actualmente mi enfoque se encuentra en el desarrollo de aplicaciones tanto para el sistema operativo Android con Kotlin, Jetpack Compose, XML, Firebase y SQLite, como tambien en el desarrollo multiplataforma, en donde principalmente utilizo Dart y Flutter.
 <br/><br/>
 ⚡️ Estoy realmente comprometido con el avance y la mejora continua, tanto en el aspecto laboral como en lo personal.
 
