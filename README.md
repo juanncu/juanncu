@@ -3,15 +3,13 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles.
+👋 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software.
 <br/><br/>
-Durante el tiempo que estuve en la universidad, me dediqué a explorar diferentes áreas de la informática y la programación con la finalidad de encontrar mi área de especialización. Pasé por el desarrollo de aplicaciones web, la ciberseguridad, redes y el desarrollo de aplicaciones móviles. Este último campo es el que más disfruto y en el que invierto mayor cantidad de mi tiempo en aprender cosas nuevas y mejorar día a día. 🎯
+✅ Durante el tiempo que estaba cursando la universidad, el desarrollo de aplicaciones móviles fue un área que captó mucho mi atención, y aunque mis primeros pasos dentro de la programación fueron del lado del desarrollo web, en donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend, el desarrollo móvil seguía siendo mi área preferida.
+ <br/><br/>
+📱 Actualmente me especializo en el desarrollo de aplicaciones para el sistema operativo android, en donde utilizo tecnologías como Kotlin, Jetpack Compose, XML, Firebase y SQLite. También he probado un poco sobre el desarrollo multiplataforma con Kotlin Multiplatform y Dart con Flutter.
 <br/><br/>
 ⚡️ Estoy realmente comprometido con el avance y la mejora continua, tanto en el aspecto laboral como en lo personal.
-<br/><br/>
-✅ El desarrollo de aplicaciones móviles es una área que desde que empece la universidad me llamó mucho la atención, y aunque mis primeros pasos dentro de la programación fueron creando aplicaciones web, tanto como Frontend y como Backend, el desarrollo móvil seguía siendo mi área preferida.
- <br/><br/>
-📱 Actualmente me especializo en el desarrollo de aplicaciones para el sistema operativo de android, en donde utilizo tecnologías como Kotlin, Jetpack Compose, XML y Firebase. También he probado un poco sobre el desarrollo multiplataforma con Kotlin Multiplatform y Dart con Flutter.
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
