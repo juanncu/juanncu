@@ -3,10 +3,10 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-👨🏽‍💻 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones nativas para android. En la creación de mis aplicaciones utilizo principalmente Kotlin como lenguaje de programación, Jetpack Compose para la interfaz y Firebase o SQlite para la persistencia de los datos. También hago uso de patrones de arquitectura como el MVVM, el cual me permite mantener una estructura y un orden en los proyectos.📱
+👨🏽‍💻 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones nativas para Android. En la creación de mis aplicaciones utilizo principalmente Kotlin como lenguaje de programación, Jetpack Compose para la interfaz y Firebase o SQLite para la persistencia de los datos. También hago uso de patrones de arquitectura como el MVVM, el cual me permite mantener una estructura y un orden en los proyectos. 📱
 <br/><br/>
-✅ Mis primeros pasos dentro de la programación fueron del lado del desarrollo web, en donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend. Sin embargo, el desarrollo de aplicaciones móviles siempre fue un área que me llamo mucho la atención, pero no fue hasta que me gradué de la universidad que probé desarrollar para android que decidí que esta era el área en la que quería crecer profesionalmente.
- <br/><br/>
+✅ Mis primeros pasos dentro de la programación fueron del lado del desarrollo web, donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend. Sin embargo, el desarrollo de aplicaciones móviles siempre fue un área que me llamó mucho la atención, pero no fue hasta que me gradué de la universidad y probé desarrollar para Android que decidí que esta era el área en la que quería crecer profesionalmente.
+<br/><br/>
 🎯 Actualmente me encuentro en la búsqueda de mi primer trabajo formal como programador, ya que hasta el momento los proyectos en los que he trabajado han sido de manera independiente y quiero dar el siguiente paso en mi carrera.
 
 ## 🌐 Redes:
