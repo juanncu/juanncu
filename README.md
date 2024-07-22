@@ -3,7 +3,7 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-👨🏽‍💻 Mi nombre es Juan. Soy ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles. Mis primeros pasos dentro de la programación fueron del lado del desarrollo web, donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend. Sin embargo, el desarrollo de aplicaciones móviles siempre fue un área que me llamó mucho la atención, pero no fue hasta que me gradué de la universidad y probé desarrollar para Android que decidí que esta era el área en la que quería crecer profesionalmente. ✅
+👨🏽‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles. Mis primeros pasos dentro de la programación fueron del lado del desarrollo web, donde pude participar en varios proyectos trabajando tanto en el frontend como en el backend. Sin embargo, el desarrollo de aplicaciones móviles siempre fue un área que me llamó mucho la atención, pero no fue hasta que me gradué de la universidad y probé desarrollar para Android que decidí que esta era el área en la que quería crecer profesionalmente. ✅
 <br/><br/>
 📱Actualmente estoy enfocado en la creación de aplicaciones móviles tanto nativas como multiplataforma, en donde hago uso de tecnologías como Kotlin, Jetpack Compose, Kotlin Multiplatform, Flutter, entre otras más. Me encuentro en constante capacitación buscando siempre mantenerme actualizado en el mercado laboral. 🎯
 
