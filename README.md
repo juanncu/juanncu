@@ -3,11 +3,11 @@
 ![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
 
 <!-- # 💫 Sobre Mí: -->
-🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones móviles.
+🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 <br/><br/>
-🖥️ He podido trabajar en proyectos de desarrollo web escribiendo código tanto en el lado del Backend como en el Frontend, sin embargo, actualmente estoy centrado en el desarrollo de aplicaciones móviles nativas con tecnologías como Kotlin y Jetpack Compose, así como también apps multiplataforma en donde utilizo principalmente Kotlin Multiplatform y Flutter. 📱
+🖥️ He podido trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend, los cuales me han ayudado a aprender muchas cosas y me han impulsado a seguir mejorando e irme superando como desarrollador.
 <br/><br/>
-💥 Soy un apasionado por el mundo de la creación de aplicaciones móviles al que le gusta aprender cosas nuevas y que busca siempre estar actualizado con las últimas novedades del sector de la tecnología.🎯
+💥 Me apasiona el mundo de la creación de software al igual que aprender cosas nuevas y buscar siempre estar actualizado con las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
