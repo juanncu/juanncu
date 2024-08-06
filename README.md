@@ -5,9 +5,9 @@
 <!-- # 💫 Sobre Mí: -->
 🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 <br/><br/>
-🖥️ He podido trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend, los cuales me han ayudado a aprender muchas cosas y me han impulsado a seguir mejorando e irme superando como desarrollador.
+🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend, los cuales me han ayudado a aprender muchas cosas y me han impulsado a seguir mejorando e irme superando como persona y como desarrollador.
 <br/><br/>
-💥 Me apasiona el mundo de la creación de software al igual que aprender cosas nuevas y buscar siempre estar actualizado con las últimas novedades del sector de la tecnología.🎯
+💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
