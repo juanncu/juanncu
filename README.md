@@ -11,7 +11,7 @@
 
 ## 🌐 Redes:
 <a href="https://www.linkedin.com/in/juanncu/" target="_blank" rel="nofollow">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
 </a>
 
 <a href="https://www.instagram.com/juanncu_/" target="_blank" rel="nofollow">
