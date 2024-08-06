@@ -11,11 +11,11 @@
 
 ## 🌐 Redes:
 <a href="https://www.linkedin.com/in/juanncu/" target="_blank" rel="nofollow">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" style="max-width: 100%; margin-right: 5px;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
 </a>
 
 <a href="https://www.instagram.com/juanncu_/" target="_blank" rel="nofollow">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="instagram" height="30" width="30" style="max-width: 100%;">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" height="30" width="30" style="max-width: 100%;">
 </a>
 
 ## 💻 Tecnologías:
