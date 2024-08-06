@@ -14,7 +14,7 @@
 
 # 🌐 Redes:
 
-<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-medium-size.png" width="26" style="margin-right:30; margin-bottom:20;"/></a>    <a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-um6pcf27.png" width="26" style="margin-bottom:20"/></a>
+<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-medium-size.png" width="26" style="margin-right:30; margin-bottom:20; max-width: 100%;"/></a>    <a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-um6pcf27.png" width="26" style="margin-bottom:20; max-width: 100%;"/></a>
 
 # 🛠️ Tecnologías y Herramientas:
 
