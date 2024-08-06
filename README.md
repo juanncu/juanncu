@@ -10,14 +10,12 @@
 💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
-<a href="www.linkedin.com/in/juanncu" rel="nofollow">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="40" style="max-width: 100%;">
+<a href="www.linkedin.com/in/juanncu" target="blank" rel="nofollow">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
 </a>
 <a href="https://www.instagram.com/juanncu_/" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="instagram" height="30" width="30" style="max-width: 100%;">
 </a>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanncu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanncu)
 
 ## 💻 Tecnologías:
 ### Frontend
