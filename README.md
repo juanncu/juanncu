@@ -10,10 +10,11 @@
 💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
-<a href="www.linkedin.com/in/juanncu" target="blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/juanncu/" target="_blank" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
 </a>
-<a href="https://www.instagram.com/juanncu_/" rel="nofollow">
+
+<a href="https://www.instagram.com/juanncu_/" target="_blank" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="instagram" height="30" width="30" style="max-width: 100%;">
 </a>
 
