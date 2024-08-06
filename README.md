@@ -10,7 +10,7 @@
 💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://instagram.com/juanqx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&target=blank&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanqx)
 
 ## 💻 Tecnologías:
 ### Frontend
