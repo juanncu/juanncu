@@ -10,13 +10,9 @@
 💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Redes:
-<a href="https://www.linkedin.com/in/juanncu/" target="_blank" rel="nofollow">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png" alt="linkedin" height="30" width="30" style="max-width: 100%;">
-</a>
+<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://camo.githubusercontent.com/7f5701ed50f919cf2352cd028b5b2dc974b5e643fe4d78ad826eb9e74551157f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://www.instagram.com/juanncu_/" target="_blank" rel="nofollow">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" height="30" width="30" style="max-width: 100%;">
-</a>
+<a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://camo.githubusercontent.com/b29ec840bb0e24d0fc1980d7bf99106a42ae316e9b5522a7e89d1248005ef058/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765267461726765743d626c616e6b266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;target=blank&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 ## 💻 Tecnologías:
 ### Frontend
