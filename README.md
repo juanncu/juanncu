@@ -12,24 +12,26 @@
 <br/><br/>
 💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
-# 🌐 Redes:
-
-<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-medium-size.png" width="26" style="margin-right:30; margin-bottom:20; max-width: 100%;"/></a> ### </span><a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-um6pcf27.png" width="26" style="margin-bottom:20; max-width: 100%;"/></a>
+## 🌐 Redes:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanncu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanncu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/juanncu_) 
 
 # 🛠️ Tecnologías y Herramientas:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanncu&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="30" style="padding-right:10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="30" style="padding-right:10" /> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="28" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="30" style="padding-right:10" /><img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="31" style="padding-right:10" /><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" width="32" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" width="30" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" width="41" style="padding-right:10"/><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="28" style="padding-right:10"/><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="34" style="padding-right:10" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="38" /><img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" style="padding-right:10" /><img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width="28" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="29" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="29" style="padding-right:10" /><img src="https://styles.redditmedia.com/t5_4rihps/styles/communityIcon_0jxadazsuhb71.png" width="30" style="padding-right:10; padding-top:10; margin-bottom:20;"/><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="44" style="margin-bottom:20;"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juanncu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 Github status:
-
-![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanncu&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncu&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## ✍️ Random Dev Quote
-
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=juanncu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Juanqxk&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=juanncu&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
