@@ -14,28 +14,11 @@
 
 # 🌐 Redes:
 
-<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-medium-size.png" width="26" style="padding-right:10; margin-bottom:20;"/></a> <a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-um6pcf27.png" width="26" style="margin-bottom:20"/></a>
+<a href="https://instagram.com/juanncu_" rel="nofollow"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-white-PNG-medium-size.png" width="26" style="padding-right:10; margin-bottom:20;"/></a>  <a href="https://linkedin.com/in/juanncu" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-um6pcf27.png" width="26" style="margin-bottom:20"/></a>
 
 # 🛠️ Tecnologías y Herramientas:
 
-<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="30" style="padding-right:10"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="30" style="padding-right:10" />
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="28" style="padding-right:10"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" style="padding-right:10" />
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="30" style="padding-right:10" />
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="31" style="padding-right:10" />
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" width="32" style="padding-right:10" />
-<img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" width="30" style="padding-right:10" />
-<img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" width="41" style="padding-right:10"/>
-<img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="28" style="padding-right:10"/>
-<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="34" style="padding-right:10" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="38" />
-<img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" style="padding-right:10" />
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width="28" style="padding-right:10"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="29" style="padding-right:10"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="29" style="padding-right:10" />
-<img src="https://styles.redditmedia.com/t5_4rihps/styles/communityIcon_0jxadazsuhb71.png" width="30" style="padding-right:10; padding-top:10; margin-bottom:20;"/>
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="44" style="margin-bottom:20;"/>
+<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="30" style="padding-right:10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="30" style="padding-right:10" /> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="28" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="30" style="padding-right:10" /><img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="31" style="padding-right:10" /><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" width="32" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" width="30" style="padding-right:10" /><img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" width="41" style="padding-right:10"/><img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" width="28" style="padding-right:10"/><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="34" style="padding-right:10" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="38" /><img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" style="padding-right:10" /><img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" width="28" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" width="29" style="padding-right:10"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="29" style="padding-right:10" /><img src="https://styles.redditmedia.com/t5_4rihps/styles/communityIcon_0jxadazsuhb71.png" width="30" style="padding-right:10; padding-top:10; margin-bottom:20;"/><img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="44" style="margin-bottom:20;"/>
 
 ## 📊 Github status:
 
