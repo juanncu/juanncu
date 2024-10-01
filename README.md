@@ -6,11 +6,11 @@
 
 <!-- # 💫 About Me: -->
 
-🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
-<br/><br/>
-🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend que me han ayudado a aprender y me han impulsado a seguir mejorando e irme superando como persona y como desarrollador.
-<br/><br/>
-💥 Me apasiona el mundo de la programación al igual que aprender cosas nuevas y buscar siempre estar actualizado a las últimas novedades del sector de la tecnología.🎯
+🧑‍💻 Ingeniero informático y desarrollador de software especializado en el diseño y desarrollo de aplicaciones web.
+
+🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend que me han ayudado a aprender y me han motivado a seguir mejorando e irme superando como persona y como desarrollador.
+
+💥 Me apasiona el mundo de la tecnología y la creación de software, por lo tanto, siempre busco aprender cosas nuevas y trato de estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanncu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanncu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/juanncu_) 
