@@ -2,7 +2,8 @@
 
 ###
 
-![imgBaner](https://github.com/Juanqx/Juanqx/assets/86135476/d1bc1baf-bc0b-4c33-ac21-56eb91b25f4f)
+![imgBaner](https://github.com/user-attachments/assets/0b533614-902b-4117-828f-505d6736ba64)
+
 
 <!-- # 💫 About Me: -->
 
