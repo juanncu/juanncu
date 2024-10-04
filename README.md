@@ -9,7 +9,7 @@
 
 🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 
-🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend que me han ayudado a aprender y me han motivado a seguir mejorando e irme superando como persona y como desarrollador.
+🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend que me han ayudado y me han motivado a seguir mejorando e irme superando como persona y como desarrollador.
 
 💥 Me apasiona el mundo de la tecnología y la creación de software, por lo tanto, siempre busco aprender cosas nuevas y trato de estar actualizado a las últimas novedades del sector de la tecnología.🎯
 
