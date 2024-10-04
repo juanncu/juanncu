@@ -7,7 +7,7 @@
 
 <!-- # 💫 About Me: -->
 
-🧑‍💻 Ingeniero informático y desarrollador de software especializado en el diseño y desarrollo de aplicaciones web.
+🧑‍💻 Ingeniero informático y desarrollador de software especializado en el desarrollo de aplicaciones web.
 
 🖥️ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en el lado del Backend como en el Frontend que me han ayudado a aprender y me han motivado a seguir mejorando e irme superando como persona y como desarrollador.
 
