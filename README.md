@@ -14,7 +14,7 @@ He tenido la oportunidad de trabajar en proyectos escribiendo código tanto en e
 💥 El mundo de la tecnología y la creación de software es un área que me apasiona, y donde siempre busco aprender cosas nuevas y trato de estar los más actualizado posible. 🎯
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_antoniocauich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniocauich) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_antoniocauich) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanncu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanncu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/juanncu_) 
 
 # 🛠️ Technologies and Tools:
 
