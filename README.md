@@ -6,12 +6,11 @@
 
 
 <!-- # 💫 About Me: -->
-
 🧑‍💻 Mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
 
-He tenido la oportunidad de trabajar en proyectos relacionados a la creación de páginas y aplicaciones web, sin embargo, actualmente me encuentro enfocado en mejorar mis habilidades y conocimientos en el desarrollo de aplicaciones móviles, tanto para Android como para IOS.
+He tenido la oportunidad de trabajar en proyectos de creación de páginas y aplicaciones web, sin embargo, actualmente me encuentro enfocado en mejorar mis habilidades y conocimientos en el desarrollo de aplicaciones móviles, en especial aplicaciones nativas para el sistema operativo Android.
 
-💥 El mundo de la tecnología y la creación de software es un área que me apasiona, y donde siempre busco aprender cosas nuevas y trato de estar los más actualizado posible. 🎯
+💥 Soy un apasionado por el mundo de la tecnología y la creación de software, siempre en constante aprendizaje y tratando de estar lo más actualizado posible.🎯
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanncu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanncu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/juanncu_) 
