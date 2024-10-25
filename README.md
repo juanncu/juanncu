@@ -6,7 +6,7 @@
 
 
 <!-- # 💫 About Me: -->
-🧑‍💻 Mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
+🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
 
 He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desarrollo web, sin embargo, actualmente mis intereses y todo mi enfoque se encuentra en la mejora de mis habilidades y conocimientos dentro del mundo del desarrollo de aplicaciones móviles, en especial aplicaciones nativas para el sistema operativo Android.
 
