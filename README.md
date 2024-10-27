@@ -2,7 +2,7 @@
 
 ###
 
-![imgBaner](https://github.com/user-attachments/assets/0b533614-902b-4117-828f-505d6736ba64)
+![Frame 1](https://github.com/user-attachments/assets/132be60f-1578-4704-bba0-ca9bee47a48e)
 
 
 <!-- # 💫 About Me: -->
@@ -16,16 +16,16 @@ He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desa
 
 ### Móvil
 <!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
-- ![Kotlin](https://img.shields.io/badge/Kotlin-057D30?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-057D30?style=for-the-badge&logo=JetpackCompose&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-057D30?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![Android](https://img.shields.io/badge/Android-057D30?style=for-the-badge&logo=Android&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-057D30?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-057D30?style=for-the-badge&logo=Dart&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-105823?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-105823?style=for-the-badge&logo=JetpackCompose&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-105823?style=for-the-badge&logo=AndroidStudio&logoColor=white) ![Android](https://img.shields.io/badge/Android-105823?style=for-the-badge&logo=Android&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-105823?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-105823?style=for-the-badge&logo=Dart&logoColor=white)
 
 ### Otras
 <!-- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
-- ![Firebase](https://img.shields.io/badge/Firebase-057D30?style=for-the-badge&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-057D30?style=for-the-badge&logo=Supabase&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-057D30?style=for-the-badge&logo=Figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-057D30?style=for-the-badge&logo=Framer&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-057D30?style=for-the-badge&logo=MySQL&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-057D30?style=for-the-badge&logo=Postman&logoColor=white)
-- ![FLutter](https://img.shields.io/badge/Google_Play-057D30?style=for-the-badge&logo=googlePlay&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-105823?style=for-the-badge&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-105823?style=for-the-badge&logo=Supabase&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-105823?style=for-the-badge&logo=Figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-105823?style=for-the-badge&logo=Framer&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-105823?style=for-the-badge&logo=MySQL&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-105823?style=for-the-badge&logo=Postman&logoColor=white)
+- ![FLutter](https://img.shields.io/badge/Google_Play-105823?style=for-the-badge&logo=googlePlay&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
