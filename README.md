@@ -28,7 +28,7 @@ He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desa
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juanncu&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
