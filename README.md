@@ -1,8 +1,8 @@
 <!-- ![github-header-image(1)](https://github.com/Juanqxk/Juanqxk/assets/86135476/713fa95e-a4c8-4385-bbd2-a3e7e186d228) -->
+[![](https://visitcount.itsvg.in/api?id=juanncu&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ###
-
-![Header(1)](https://github.com/user-attachments/assets/83a4a1c0-d969-48a8-98f7-2963ab696dff)
+![Header](https://github.com/user-attachments/assets/1f306181-f86e-41e9-8552-9a507eea3f6f)
 
 <!-- # 💫 About Me: -->
 🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
@@ -26,21 +26,16 @@ He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desa
 - ![SQL](https://img.shields.io/badge/SQL-105823?style=for-the-badge&logo=MySQL&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-105823?style=for-the-badge&logo=Postman&logoColor=white)
 - ![FLutter](https://img.shields.io/badge/Google_Play-105823?style=for-the-badge&logo=googlePlay&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juanncu&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juanncu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juanncu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanncu&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncu&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=juanncu&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juanncu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=juanncu&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
