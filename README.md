@@ -2,7 +2,7 @@
 
 ###
 
-![Header](https://github.com/user-attachments/assets/198fd9ca-6651-4406-b997-5efab47447d7)
+![Header(1)](https://github.com/user-attachments/assets/83a4a1c0-d969-48a8-98f7-2963ab696dff)
 
 <!-- # 💫 About Me: -->
 🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
