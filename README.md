@@ -2,12 +2,13 @@
 [![](https://visitcount.itsvg.in/api?id=juanncu&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ###
-![Header](https://github.com/user-attachments/assets/1f306181-f86e-41e9-8552-9a507eea3f6f)
+![Header](https://github.com/user-attachments/assets/58bec35f-5797-4cdc-a793-716cfe397e5d)
 
 <!-- # 💫 About Me: -->
-🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones móviles.
+🧑‍💻 Hola, mi nombre es juan, soy ingeniero informático y desarrollador de aplicaciones web.
 
-He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desarrollo web, sin embargo, actualmente mis intereses y todo mi enfoque se encuentra en la mejora de mis habilidades y conocimientos dentro del mundo del desarrollo de aplicaciones móviles, en especial aplicaciones nativas para el sistema operativo Android.
+He tenido la oportunidad de trabajar en proyectos relacionados al mundo del desarrollo web y móvil, en donde he podido adquirir y expandir mis conocimientos como desarrollador escribiendo código con tecnologías como NetsJs, ExpresJs, TypeScript, Laravel, Kotlin, entre otros. 
+Actualmente me encuentro reforzando mis habilidades como desarrollador backend trabajando en proyectos que me permitan seguir creciendo en conocimiento y experiencia.
 
 💥 Soy un apasionado por el mundo de la tecnología y la creación de software, siempre en constante aprendizaje y tratando de estar lo más actualizado posible.🎯
 
